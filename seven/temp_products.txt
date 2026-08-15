@@ -1,0 +1,5 @@
+Laptop,Electronics
+Mouse,Electronics
+Keyboard,Electronics
+Monitor,Electronics
+Desk Lamp,Furniture

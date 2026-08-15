@@ -1,0 +1,6 @@
+product_code,price,currency,warehouse
+P001,999.99,USD,East
+P002,25.50,USD,West
+P003,75.00,USD,East
+P004,299.99,USD,North
+P005,45.00,USD,South

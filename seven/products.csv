@@ -1,0 +1,6 @@
+sku,product_name,category,weight,manufacturer
+P001,Laptop,Electronics,2.5kg,Dell
+P002,Mouse,Electronics,0.1kg,Logitech
+P003,Keyboard,Electronics,0.8kg,Microsoft
+P004,Monitor,Electronics,5.0kg,LG
+P005,Desk Lamp,Furniture,1.2kg,Ikea
