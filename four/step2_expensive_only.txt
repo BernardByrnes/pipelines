@@ -1,0 +1,4 @@
+laptop,1500
+laptop,1500
+laptop,1500
+monitor,300

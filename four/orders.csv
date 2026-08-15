@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,status
+1001,Alice,Laptop,1,shipped
+1002,Bob,Mouse,3,DELIVERED
+1003,Charlie,Keyboard,2,SHIPPED
+1004,Alice,Monitor,1,PENDING
+1005,Diana,Laptop,2,Delivered
+1006,Bob,Keyboard,1,Shipped
+1007,Charlie,Mouse,5,PENDING
+1008,Eve,Monitor,2,SHIPPED
+1009,Alice,Mouse,4,delivered
+1010,Diana,Keyboard,1,pending

@@ -1,0 +1,7 @@
+server|cpu_percent|memory_percent|disk_percent|status
+web01|45|62|71|healthy
+web02|78|45|68|healthy
+db01|23|89|55|warning
+web03|91|73|82|critical
+cache01|12|34|45|healthy
+db02|56|78|63|healthy

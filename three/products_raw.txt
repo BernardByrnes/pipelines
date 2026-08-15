@@ -1,0 +1,6 @@
+SKU|product|price|stock
+A001|  Wireless Mouse  |9.99|150
+A002|USB Keyboard|   9.99|75
+A003|  Monitor 24"  |$99.99|30
+A004|Laptop Stand|$9.99  |120
+A005|  Webcam HD|   9.99|45

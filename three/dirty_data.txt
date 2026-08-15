@@ -1,0 +1,6 @@
+product_id,product_name,price
+001,  Laptop Pro  ,99.99
+002,Mouse   Pad,5.50
+003,  Keyboard  ,   $5.00
+004,Monitor HD,   $99.99
+005,  USB Cable,2.99

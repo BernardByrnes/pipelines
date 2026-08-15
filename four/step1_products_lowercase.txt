@@ -1,0 +1,8 @@
+laptop,1500
+mouse,25
+laptop,1500
+keyboard,75
+mouse,25
+laptop,1500
+monitor,300
+keyboard,75
