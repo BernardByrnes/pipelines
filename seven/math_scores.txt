@@ -1,0 +1,7 @@
+First|Last|Math
+Alice|Johnson|85
+Bob|Smith|91
+Charlie|Brown|72
+Diana|Prince|95
+Eve|Wilson|88
+Frank|Miller|67
