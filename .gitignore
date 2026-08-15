@@ -5,3 +5,4 @@ build/
 .env.*
 !.env.example
 *.log
+auto-push.ps1
