@@ -1,0 +1,7 @@
+student_id,first_name,last_name,email,math_score,english_score,science_score,days_present,days_absent
+S001,Alice,Johnson,alice@school.edu,85,92,78,180,5
+S002,Bob,Smith,bob@school.edu,91,88,95,175,10
+S003,Charlie,Brown,charlie@school.edu,72,79,68,160,25
+S004,Diana,Prince,diana@school.edu,95,94,98,185,0
+S005,Eve,Wilson,eve@school.edu,88,85,90,178,7
+S006,Frank,Miller,frank@school.edu,67,71,73,150,35
