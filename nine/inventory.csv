@@ -1,0 +1,9 @@
+warehouse,product_id,stock_qty,aisle
+West,P104,35,A3
+East,P100,25,B1
+North,P106,10,C5
+East,P102,60,B2
+South,P107,15,D1
+West,P101,150,A1
+East,P105,200,B4
+North,P103,20,C2

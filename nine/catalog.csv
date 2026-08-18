@@ -1,0 +1,8 @@
+product_id,product_name,category,weight_kg
+P100,Laptop,Electronics,2.5
+P101,Mouse,Electronics,0.15
+P102,Keyboard,Electronics,0.8
+P103,Monitor,Electronics,5.2
+P104,Desk Lamp,Furniture,1.1
+P105,USB Cable,Electronics,0.05
+P106,Office Chair,Furniture,12.0
