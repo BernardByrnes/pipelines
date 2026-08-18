@@ -1,0 +1,8 @@
+Product_id  Product_name  Category     Weight  Warehouse  Stock_qty  Aisle
+P100        Laptop        Electronics  2.5     East       25         B1
+P101        Mouse         Electronics  0.15    West       150        A1
+P102        Keyboard      Electronics  0.8     East       60         B2
+P103        Monitor       Electronics  5.2     North      20         C2
+P104        Desk Lamp     Furniture    1.1     West       35         A3
+P105        USB Cable     Electronics  0.05    East       200        B4
+P106        Office Chair  Furniture    12.0    North      10         C5
