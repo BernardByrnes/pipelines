@@ -1,0 +1,4 @@
+product_name  category     stock_qty  aisle
+Laptop        Electronics  25         B1
+Monitor       Electronics  20         C2
+Office Chair  Furniture    10         C5
